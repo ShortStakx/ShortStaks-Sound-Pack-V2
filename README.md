@@ -7,7 +7,6 @@ Everything in the General folder is recorded by me personally, and with the Guns
 # Please Give Proper Credit If You Do Choose To Use This Audio Pack in Any Project! "ShortStak". #
 if you need my real name for any commerical projects, please ask me on discord as well.
 
-Edit:
-Some stuff had to be removed/redone because aftertouch audio's terms of service does not allow me to redesign their libraries and distribute it for free
+
 
 ![togif](https://github.com/user-attachments/assets/66b99056-b3b5-4b95-a753-d568e6bb2751)
